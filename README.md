@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB63A&height=300&section=header&text=Mehmet%20Mert&fontSize=90" />
-My name is Mehmet Mert
+<h2>My name is Mehmet Mert</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mehmet-mert&show_icons=true&theme=radical">
 <br><h2>My prefeered languages</h2>
