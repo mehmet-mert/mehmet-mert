@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=89DDFF&height=300&section=header&text=capsule%20render&fontSize=90" />
 My name is Mehmet Mert
 
 <img src="https://github-readme-stats.vercel.app/api?username=mehmet-mert&show_icons=true&theme=radical">
@@ -12,3 +12,4 @@ My name is Mehmet Mert
 </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet-mert&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
 <hr>
+<a href="https://github.com/mehmet-mert" target="_blank" rel="nofollow"><img src="https://komarev.com/ghpvc/?username=mehmet-mert&color=green" alt="" style="max-width:100%;"></a>
