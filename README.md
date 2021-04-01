@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mehmet Mert</h1>
-<h2>My name is Mehmet Mert</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmet-mert&show_icons=true&theme=radical&locale=en" alt="mehmet-mert" /></p>
 
 <br><h2>My preferred languages</h2>
