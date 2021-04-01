@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB63A&height=300&section=header&text=Mehmet%20Mert&fontSize=90" />
 <h2>My name is Mehmet Mert</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmet-mert&show_icons=true&theme=radical&locale=en" alt="mehmet-mert" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mehmet-mert&show_icons=true&theme=radical">
 <br><h2>My preferred languages</h2>
 <p>
   <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/74713937/110069833-bd9b5f80-7d89-11eb-9982-e008f629d27c.png"><img src="https://user-images.githubusercontent.com/74713937/110069833-bd9b5f80-7d89-11eb-9982-e008f629d27c.png" width="30px" height="30px" style="max-width:100%;"></a>
@@ -11,6 +11,6 @@
 </p>
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=mehmet-mert&show_icons=true&locale=en&layout=compact" alt = "mehmet- mert "/> </p>
 -----------------------------------
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmet-mert&show_icons=true&theme=radical&locale=en" alt="mehmet-mert" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmet-mert&" alt="mehmet-mert" /></p>
