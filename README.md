@@ -3,8 +3,8 @@
 My name is Mehmet Mert
 
 <img src="https://github-readme-stats.vercel.app/api?username=mehmet-mert&show_icons=true&theme=radical">
-<br>&emsp;My prefeered languages
 <hr>
+<br>;My prefeered languages
 <p>
   <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/74713937/110069833-bd9b5f80-7d89-11eb-9982-e008f629d27c.png"><img src="https://user-images.githubusercontent.com/74713937/110069833-bd9b5f80-7d89-11eb-9982-e008f629d27c.png" width="30px" height="30px" style="max-width:100%;"></a>
    <a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="25px" height="30px" style="max-width:100%;"></a> 
