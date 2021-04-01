@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=89DDFF&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=263165&height=300&section=header&text=capsule%20render&fontSize=90" />
 My name is Mehmet Mert
 
 <img src="https://github-readme-stats.vercel.app/api?username=mehmet-mert&show_icons=true&theme=radical">
