@@ -3,7 +3,7 @@
 My name is Mehmet Mert
 
 <img src="https://github-readme-stats.vercel.app/api?username=mehmet-mert&show_icons=true&theme=radical">
-<br>;My prefeered languages
+<br><h2>My prefeered languages</h2>
 <hr>
 <p>
   <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/74713937/110069833-bd9b5f80-7d89-11eb-9982-e008f629d27c.png"><img src="https://user-images.githubusercontent.com/74713937/110069833-bd9b5f80-7d89-11eb-9982-e008f629d27c.png" width="30px" height="30px" style="max-width:100%;"></a>
