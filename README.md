@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB63A&height=300&section=header&text=Mehmet%20Mert&fontSize=90" />
 My name is Mehmet Mert
 
