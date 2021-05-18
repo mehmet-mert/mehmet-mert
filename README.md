@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mehmet Mert</h1>
 
-<!-- Total stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmet-mert&show_icons=true&theme=radical&locale=en" alt="mehmet-mert" /></p>
+Hi 👋 My name is Mert. I am a student and young developer from Turkey. My favorite language is Python because I can do many things easily with it. I am also interested in <b>C# </b>.
 
-<br><h2>My preferred languages</h2>
-<p>
-  <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/74713937/110069833-bd9b5f80-7d89-11eb-9982-e008f629d27c.png"><img src="https://user-images.githubusercontent.com/74713937/110069833-bd9b5f80-7d89-11eb-9982-e008f629d27c.png" width="30px" height="30px" style="max-width:100%;"></a>
-   <a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="25px" height="30px" style="max-width:100%;"></a> 
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/python/python.png"><img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/python/python.png" width="30px" height="30px" style="max-width:100%;"></a> 
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67"><img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" width="30px" height="30px" style="max-width:100%;"></a>
-</p>
-<!-- Dil kartı -->
-<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=mehmet-mert&show_icons=true&locale=en&layout=compact" alt = "mehmet- mert "/> </p>
-<!-- Streak Kartı -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmet-mert&" alt="mehmet-mert" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mehmet-mert&show_icons=true&theme=highcontrast&locale=en" alt="mehmet-mert" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmet-mert&show_icons=true&theme=dark&locale=en&layout=compact" alt="mehmet-mert" /></p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
