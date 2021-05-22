@@ -5,7 +5,7 @@
 <p>&nbsp;<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=mehmet-mert&show_icons=true&theme=highcontrast&locale=en" alt="mehmet-mert" /></p>
 <p><img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmet-mert&show_icons=true&theme=dark&locale=en&layout=compact" alt="mehmet-mert" /></p>
 
-Hi 👋 My name is Mert. I am a student and young developer from Turkey. My favorite language is Python because I can do many things easily with it. I am also interested in <b>C# </b>.
+Hi 👋 My name is Mert. I am a 16 years old student and young developer from Turkey. My favorite language is Python because I can do many things easily with it. I am also interested in <b>C# </b>.
 
 - ⚡ I’m currently studying :trollface: ...
 - ☄️ I’m currently learning C#.
