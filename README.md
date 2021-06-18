@@ -8,7 +8,7 @@
 Hi 👋 My name is Mert. I am a 16 years old student and young developer from Turkey. My favorite language is Python because I can do many things easily with it. I am also interested in <b>C# </b>.
 
 - ⚡ I’m currently studying :trollface: ...
-- ☄️ I’m currently learning C#.
+- ☄️ I’m currently learning JavaScript.
 - ⭐ I want to make a Operating System with C#.
 
 <h3 align="left">Languages and Tools:</h3>
