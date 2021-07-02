@@ -9,7 +9,7 @@ Hi 👋 My name is Mert. I am a 16 years old student and young developer from Tu
 
 - ⚡ I’m currently studying :trollface: ...
 - ☄️ I’m currently learning JavaScript.
-- ⭐ I want to make a Operating System with C#.
+- ⭐ I want to make a personal Website.
 
 <h3 align="left">Languages and Tools:</h3>
 
